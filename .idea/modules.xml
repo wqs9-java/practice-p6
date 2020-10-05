@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/20200930/20200930.iml" filepath="$PROJECT_DIR$/20200930/20200930.iml" />
       <module fileurl="file://$PROJECT_DIR$/20200930/mybatis-demo/mybatis-demo.iml" filepath="$PROJECT_DIR$/20200930/mybatis-demo/mybatis-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/practice-p6.iml" filepath="$PROJECT_DIR$/.idea/practice-p6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spirng-boot-demo/spirng-boot-demo.iml" filepath="$PROJECT_DIR$/spirng-boot-demo/spirng-boot-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-mvc/spring-mvc.iml" filepath="$PROJECT_DIR$/spring-mvc/spring-mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20200930/mybatis-demo/spring-mvc-demo/spring-mvc-demo.iml" filepath="$PROJECT_DIR$/20200930/mybatis-demo/spring-mvc-demo/spring-mvc-demo.iml" />
     </modules>
   </component>
 </project>
